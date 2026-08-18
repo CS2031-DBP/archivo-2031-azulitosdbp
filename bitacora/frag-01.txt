@@ -1,0 +1,8 @@
+======================================
+   ARCHIVO 2031 - FRAGMENTO 01/02
+======================================
+origen : bitacora archivada en la rama principal
+palabra: VECTOR
+codigo : a2ba47abb6
+--------------------------------------
+Transcribir tal cual. Se compara linea a linea.
