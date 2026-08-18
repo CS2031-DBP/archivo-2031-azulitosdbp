@@ -1,0 +1,7 @@
+======================================
+   ARCHIVO 2031 - FRAGMENTO 02/02
+======================================
+origen : respaldo previo al incidente
+palabra: AUTOMATA
+codigo : 2c24627fae
+--------------------------------------
